@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/573f5c61e7752709df0005d2/train/javascript/69f888898e0fe4fdec7fcf32 target="_blank">Merging sorted integer arrays (without duplicates)</a></h2><h3>8 kyu</h3><p>Write a function that merges two sorted arrays into a single one. The arrays only contain integers. Also, the final outcome must be sorted and not have any duplicate.</p>
